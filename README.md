@@ -7,6 +7,8 @@
 
 
 - 📫 How to reach me **ayeshamishree@gmail.com**
+  
+- 📝 check my linkedin profile [https://www.linkedin.com/in/ayesha-mishree-78b141256/)
    
 - 📝 my instagram account [https://www.instagram.com/ayeshamishree/)
   
