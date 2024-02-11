@@ -9,11 +9,7 @@
 - 📫 How to reach me **ayeshamishree@gmail.com**
   
 - 📝 check my linkedin profile [https://www.linkedin.com/in/ayesha-mishree-78b141256/)
-   
-- 📝 my instagram account [https://www.instagram.com/ayeshamishree/)
-  
-- 📝 I write poetry(for fun) on [https://www.instagram.com/ashenverses/](https://www.instagram.com/ashenverses/)
-
+     
 
 <h3 align="left">Connect with me: </h3>
 <p>[https://www.linkedin.com/in/ayesha-mishree-78b141256/]</p>
