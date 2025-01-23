@@ -14,7 +14,7 @@
 - 🌱 I’m currently applying my skills in **.NET Development**.
 - 💼 **Director** at <a href="https://www.linkedin.com/company/unique-innovation-pvt-ltd/" target="_blank">Unique Innovation (Pvt) Ltd.</a>
 - 📫 Reach me at **ayeshamishree@gmail.com**.
-- 📝 [LinkedIn Profile: ](https://www.linkedin.com/in/ayesha-mishree-78b141256/).
+- 📝 [LinkedIn Profile](https://www.linkedin.com/in/ayesha-mishree-78b141256/).
 
 ---
 
@@ -38,9 +38,6 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
     </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/>
-    </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
     </a> 
