@@ -24,7 +24,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     <a href="mailto:ayeshamishree@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Gmail_Logo.png" alt="Email" width="40" height="40"/>
+        <img src="https://www.google.com/images/icons/product/gmail-32.png" alt="Email" width="40" height="40"/>
     </a>
 </p>
 
