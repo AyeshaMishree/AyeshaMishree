@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
-<h3 align="center">Software Engineer | Passionate Coder | Lifelong Learner</h3>
+<h3 align="center">Software Engineer | .NET Developer | Director @uniqueinnovation</h3>
 <h4 align="center">Karachi, Pakistan</h4>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
