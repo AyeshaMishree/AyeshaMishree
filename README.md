@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **ayeshamishree@gmail.com**
   
-- 📝 linkedin profile: [https://www.linkedin.com/in/ayesha-mishree-78b141256/)
+- 📝 linkedin profile: https://www.linkedin.com/in/ayesha-mishree-78b141256/
      
 
 <h3 align="left">Connect with me: </h3>
-<p>[https://www.linkedin.com/in/ayesha-mishree-78b141256/]</p>
+<p>https://www.linkedin.com/in/ayesha-mishree-78b141256/</p>
 <p align="left">
 </p>
 
