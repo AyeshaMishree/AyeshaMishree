@@ -11,22 +11,10 @@
 ---
 
 ### **About Me**
-- 🌱 I’m currently honing my skills in **Machine Learning** and **Web Development**.
-- 💼 **Software Engineer** at [Your Company Name/Details (Optional)].
-- 🔧 Experienced in building scalable and efficient software solutions.
-- 🎓 Graduate in [Your Degree, e.g., Computer Science].
+- 🌱 I’m currently applying my skills in **Dot NET Development**.
+- 💼 **Director** at Unique Innovation (pvt) ltd.
 - 📫 Reach me at **ayeshamishree@gmail.com**.
 - 📝 [LinkedIn Profile](https://www.linkedin.com/in/ayesha-mishree-78b141256/).
-
----
-
-### **Work Experience**
-Here’s a brief overview of my professional experience:
-- **[Job Title, e.g., Software Engineer]**, [Company Name] *(Year – Present)*  
-  - Implemented [specific projects, e.g., RESTful APIs using ASP.NET].  
-  - Improved system performance by [specific achievement].  
-- **[Previous Job Title]**, [Previous Company Name] *(Year – Year)*  
-  - Collaborated with cross-functional teams to develop [specific project/tool].
 
 ---
 
