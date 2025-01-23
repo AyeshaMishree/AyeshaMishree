@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
-<h3 align="center">Student of Software Engineeing from Pakistan</h3>
+<h3 align="center">Software Enginee</h3>
+<h4 align="center">Karachi, Pakistan</h4>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **ayeshamishree@gmail.com**
   
-- 📝 check my linkedin profile [https://www.linkedin.com/in/ayesha-mishree-78b141256/)
+- 📝 linkedin profile: [https://www.linkedin.com/in/ayesha-mishree-78b141256/)
      
 
 <h3 align="left">Connect with me: </h3>
